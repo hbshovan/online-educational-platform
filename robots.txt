@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /checkout.php
+Disallow: /create_invoice.php
+Disallow: /logout.php
+Disallow: /maintenance.html
+Disallow: /order_info.php
+Disallow: /otp_check.php
+Disallow: /user_check.php
+
+
+Sitemap: https://learn.fay.com.bd/sitemap.xml
